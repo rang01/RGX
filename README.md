@@ -1,5 +1,5 @@
 # RGX
-ReGular expression eXchange format for controlled language
+ReGular expression eXchange format for controlled language application
 
 Regular expressions are used for various applications. In some cases to validate input in a textfield based on controlled language.
 RGX wants to document various attributes for regular expressions to transfer their use.
