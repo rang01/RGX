@@ -1,13 +1,14 @@
 # RGX
 ReGular expression eXchange format for controlled language application
 
-Regular expressions are used for various applications. In some cases to validate input in a textfield based on controlled language.
-RGX wants to document various attributes for regular expressions to transfer their use.
+Regular expressions are used for various applications. In some cases to validate input in a textfield based on controlled language. This is often used in QA methods in Computer Assited Translation Tools (CAT).
+RGX wants to document various attributes for regular expressions to transfer their use in the various environments.
 
 Common applications:
 - segment detection in translations for example for correct use of spaces before units
 - applying controlled language rules in editors
 - checking text for character sequences
+- applying controlled language in textlinters
 
 Attribute types:
 
